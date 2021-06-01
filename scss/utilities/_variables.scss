@@ -1,0 +1,41 @@
+// Website palette --------------------------
+
+$primary-color:#58e1c1;
+$secondary-color:#51ddfc;
+$text-color:#777;
+$white:#fff;
+
+// Buttons colors --------------------------
+
+$default-color:#51ddfc;
+$error-color:#e4757a;
+$info-color:#927bc1;
+$success-color:#63cc82;
+$warning-color:#fd7856;
+
+// Buttons hover / transition --------------------------
+
+$button-transition-hover: .5s ease-out;
+$button-transition:.3s ease-out;
+
+
+// Media-queries break --------------------------
+ 
+$break-m: 768px;
+
+// Themes for grid  --------------------------
+
+$themes: (
+    '1':#927bc1,
+    '2':#fd7856,
+    '3':#deb2ee,
+    '4':#7ee6fd,
+    '5':#88d9a0,
+    '6':#4da2bb,
+    '7':#ec9fa3,
+    '8':#fd9f85,
+    '9':#e4757a,
+    '10':#63cc82,
+    '11':#51ddfc,
+    '12':#80e8d1,
+);
